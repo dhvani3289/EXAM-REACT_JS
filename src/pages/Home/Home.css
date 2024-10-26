@@ -1,0 +1,46 @@
+.sorting {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.sorting select {
+    padding: 7px;
+    border-radius: 6px;
+    color: rgb(75, 150, 153);
+    font-weight: 600;
+}
+
+.blog-box {
+    min-height: 300px;
+    width: 300px;
+    background-color: lightblue;
+    margin: 20px;
+}
+
+.blog-box h3 {
+    min-width: 200px;
+    min-height: 100px;
+}
+
+.blog-box img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.blog-btn-wrap {
+    margin: 10px;
+    border-radius: 4px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.blog-btn {
+    border: none;
+    background-color: transparent;
+    font-size: 30px;
+    color: darkcyan;
+}

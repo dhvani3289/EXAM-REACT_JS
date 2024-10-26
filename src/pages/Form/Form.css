@@ -1,0 +1,28 @@
+.form-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.form-wrap {
+    width: 400px;
+    border: 1px solid gray;
+}
+
+.form-wrap h2 {
+    color: dimgray;
+    font-size: 30px;
+    text-align: left;
+    padding: 10px 10px 0px 17px;
+}
+
+.form-wrap input,
+.form-wrap textarea,
+.form-wrap button {
+    margin: 10px;
+    border-color: rgb(196 196 196 / 47%);
+    padding: 8px;
+    width: 90%;
+}

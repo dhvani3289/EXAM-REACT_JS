@@ -1,0 +1,51 @@
+.signup-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.signUp {
+    text-align: left;
+    margin: 10px;
+    padding-left: 7px;
+    font-size: 30px;
+}
+
+.box {
+    width: 400px;
+    border: 1px solid rgb(205, 205, 205);
+}
+
+.box input {
+    width: 90%;
+    border-color: rgb(196 196 196 / 47%);
+    margin: 10px;
+    padding: 7px;
+}
+
+.register-btn {
+    background-color: gainsboro;
+    color: black;
+    margin: 5px;
+    width: 89%;
+    border: none;
+    padding: 7px;
+}
+
+p {
+    margin-top: 4px;
+}
+
+p a {
+    text-decoration: none;
+    padding-left: 3px;
+}
+
+.error p {
+    margin: 0px;
+    color: red;
+    text-align: left;
+    margin-left: 24px;
+}
